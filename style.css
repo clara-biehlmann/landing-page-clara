@@ -1,0 +1,199 @@
+.nav {
+ background-color: #00BFFF;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    z-index: 10000;
+    width: 100%;
+    padding: 12px 20px 20px 12px;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    position: fixed;
+}
+
+.nav-link {
+    color: white !important;
+}
+#logonav {
+    height: 45px;
+    margin-right: 550px;
+    margin-bottom: -40px;
+}
+
+
+#logo {
+    width: 100%;
+	margin: 50px auto;
+    text-align: center;
+}
+
+h1{
+    color: #273c48;
+    font-size: 60px;
+    line-height: 66px;
+    text-align: center;
+}
+
+
+
+h3{
+    text-align: center;
+	color: #2a2a2a;
+	margin-bottom: 25px;
+	margin-top: 70px;
+}
+
+.but {
+    position: center;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: auto;
+    border: 2px solid #333; 
+    font-size: 13px;
+    font-weight: 700;
+    background-color: white;
+    color: #333;
+    margin-bottom: 0px;
+}
+.dropdown-item {
+    background-color: #061A40;
+    color: white;
+
+}
+
+.littlespace {
+  height: 100px;
+}
+
+.titre{
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: Jubilat, Georgia, sans-serif;
+    color: #333;
+    font-size: 60px;
+    line-height: 66px;
+}
+.sous-titres{
+    font-size: 30px;
+    color: #333;
+    font-family: Lato, Arial, sans-serif;
+    margin-top: 10px;
+}
+
+.block {
+    margin-top: 80px;
+    height: 680px;
+    overflow: visible;
+    background-repeat: no-repeat, no-repeat,no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.littletextblock{
+    background-color: black;
+    opacity: 0.60; 
+    width: 1000px;
+    margin: auto;
+    margin-top: 250px
+
+}
+.littletext {
+    color: white;
+    padding: 25px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Jubilat, Georgia, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 40px;
+
+   
+}
+.titleblack {
+    font-family: Jubilat, Georgia, sans-serif;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.presentation {
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    margin-top: 80px;
+
+}
+
+.titleblock {
+    display: block;
+    width: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    margin-left: auto;
+    font-family: Jubilat, Georgia, sans-serif;
+    color: #333;
+    font-size: 50px;
+    line-height: 57px;
+    font-weight: 700;
+    text-transform: none;
+    margin-bottom: -30px
+}
+
+.textblock {
+    text-align: justify;
+    margin-bottom: 20px;
+    font-family: Lato, Arial, sans-serif;
+    color: #2a2a2a;
+    padding: 50px;
+    font-size: 22px;
+    line-height: 40px;
+    letter-spacing: 0.5px;
+}
+
+.learnbutton {
+    text-align: left;
+    margin-left: 25px;
+}
+
+#buttontext {
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 2px solid #333; 
+    font-size: 13px;
+    font-weight: 700;
+    background-color: white;
+    color: #333;
+    margin-left: 300px;
+}
+
+
+
+.foot{
+    background-color: #00BFFF;
+    height: 120px;
+    width: 100%;
+    margin-top: 100px;    
+}
+
+
+.buttlink{
+    font-size: 12px;
+    height:200px;
+    width: 30%;
+    padding: 20px 20px 20px 20px;
+    display: inline-block;
+    background-color: white;
+}
+
+.socialm{
+    width: 30%
+    padding: 20px 20px 20px 20px;
+    display: inline-block;
+    position: absolute;
+    right: 200px;   
+}
